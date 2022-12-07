@@ -26,9 +26,6 @@ defmodule Solutions.Day01 do
         |>Enum.filter(fn x -> Enum.any?(x, fn y -> y =="" end) == false end)
         |>Enum.map(fn x -> Enum.map(x, fn y -> String.to_integer(y) end) |> Enum.sum() end)
       end
-
     end
-
   end
-
 end
