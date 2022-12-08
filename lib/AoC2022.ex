@@ -5,6 +5,8 @@ defmodule AoC2022 do
   import Helpers
 
   use Solutions.Day01
+  use Solutions.Day02
+  use Solutions.Day03
 
   def start(_type, _args) do
     # For debugging in VS Code, when launcher.json is used to call "mix run" with debugging enabled
