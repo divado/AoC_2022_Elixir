@@ -1,6 +1,6 @@
 # Advent of Code 2022 in Elixir
 
-Heavily inspired by [🎄Advent of Code 2022🎄 | https://github.com/norrbacka/aoc2022-elixir/tree/main]
+Heavily inspired by [🎄Advent of Code 2022🎄](https://github.com/norrbacka/aoc2022-elixir/tree/main)
 
 This repo and it's content are used as a learning experience for elixir.
 
